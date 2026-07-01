@@ -5,6 +5,15 @@ Each module is self-contained with theory, working code, and a mini-project.
 
 ---
 
+## Architecture & Design
+
+Before diving into code, understand how everything connects:
+
+- [High Level Design](docs/high-level-design.md) — how all 6 modules form one end-to-end DevOps pipeline
+- [Low Level Design](docs/low-level-design.md) — detailed flow diagram for each module
+
+---
+
 ## Learning Plan
 
 ### Module 01 — Git & GitHub Fundamentals
